@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+local.settings.json
+*.db
+__blobstorage__/
+__queuestorage__/
