@@ -1,0 +1,9 @@
+# Ignore the virtual-environment folder
+venv_order_processor/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Local Azure Functions settings
+local.settings.json
